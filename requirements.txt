@@ -28,7 +28,6 @@ kiwisolver==1.4.5
 MarkupSafe==2.1.5
 matplotlib==3.7.4
 matplotlib-inline==0.1.6
--e git+https://github.com/M-Hamza380/ML-End-to-End-Project.git@b46f55fb3c8e478f5439467715c5087809abdfa6#egg=mlproject
 nest-asyncio==1.6.0
 numpy==1.24.4
 packaging==23.2
